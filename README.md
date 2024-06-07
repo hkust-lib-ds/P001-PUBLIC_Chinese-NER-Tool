@@ -21,7 +21,12 @@ _HKUST Library - Digital Initiatives Project - P001_
    git clone https://github.com/hkust-lib-ds/P001-PUBLIC_Chinese-NER-Tool.git
    ```
 
-3. **Install the required dependencies using the following command.**
+3. **Change to the appropriate folder location.**
+   ```
+   cd P001-PUBLIC_Chinese-NER-Tool
+   ```
+   
+4. **Install the required dependencies using the following command.**
 
     ```
     pip3 install -r requirements.txt
@@ -33,7 +38,7 @@ _HKUST Library - Digital Initiatives Project - P001_
     pip install -r requirements.txt
     ```
 
-4. **Run our tool using the following command.**
+5. **Run our tool using the following command.**
 
     ```
     streamlit run NER_Chinese.py
