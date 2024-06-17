@@ -1,4 +1,4 @@
-_HKUST Library - Digital Initiatives Project - P001_
+_HKUST Library - DS CoLab Project - P001_
 # Chinese Named-Entity Recognition (NER) Tool
 
 **Project Introduction:**  https://library.hkust.edu.hk/ds/project/p001/  
