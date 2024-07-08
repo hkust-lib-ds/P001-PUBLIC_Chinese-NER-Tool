@@ -934,6 +934,7 @@ if uploaded_files:
     ###############################################################
     with col1:
         st.markdown("---")
+        st.write("以下功能僅應用於當前文件。")
         with stylable_container(
             key="dataExport_button1",
             css_styles="""
@@ -1509,7 +1510,7 @@ if Display_inst:
 
             fig.update_layout(
                 title='實體實例的位置散佈圖',
-                xaxis=dict(title='實體實例在文章中出現的位置'),
+                xaxis=dict(title='實體實例在文章中出現的位置（字）'),
                 yaxis=dict(title='實體實例'),
                 showlegend=True
             )
