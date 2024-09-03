@@ -2,6 +2,7 @@ _HKUST Library - DS CoLab Project - P001_
 # Chinese Named-Entity Recognition (NER) Tool
 
 **Project Introduction:**  https://library.hkust.edu.hk/ds/project/p001/  
+**Timeframe:** 2023/24 Spring semester (Feb-May 2024)
 
 ## Preview
 
