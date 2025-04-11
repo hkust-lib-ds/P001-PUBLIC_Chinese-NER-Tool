@@ -10,7 +10,8 @@ _HKUST Library - DS CoLab Project - P001_
 
 ## Manual
 
-[使用手冊 Manual Guide - manual.md](https://github.com/hkust-lib-ds/P001-PUBLIC_Chinese-NER-Tool/blob/main/manual.md)
++ [使用手冊 Manual Guide - manual.md](https://github.com/hkust-lib-ds/P001-PUBLIC_Chinese-NER-Tool/blob/main/manual.md)
++ [影片示範 Video Demo](https://library.hkust.edu.hk/ds/wp-content/uploads/2024/11/DS-P001_manual_video.mp4)
 
 ## Run our tool on your computer locally
 
