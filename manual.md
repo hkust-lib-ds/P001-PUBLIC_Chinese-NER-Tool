@@ -28,6 +28,9 @@ https://github.com/hkust-lib-ds/P001-PUBLIC_Chinese-NER-Tool
 
 ![overview of the app interface](manual-img/0_overview.png)
 
+### 影片示範 Video Demo
+https://library.hkust.edu.hk/ds/wp-content/uploads/2024/11/DS-P001_manual_video.mp4
+
 ### 平台功能
 
 #### 1. 自動識別及標注實體 Entities Auto Annotation
