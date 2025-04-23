@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/807921510.svg)](https://doi.org/10.5281/zenodo.15266695)
+
 _HKUST Library - DS CoLab Project - P001_
 # Chinese Named-Entity Recognition (NER) Tool
 
